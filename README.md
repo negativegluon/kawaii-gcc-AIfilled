@@ -11,7 +11,7 @@ Everyone is welcomed to contribute and add more kawaii messages!
 [中文版](./README-zh.md)（更改为中文时请优先阅读）
 
 使用deepseek萌化了所有（1.4w+）条编译器输出！  
-完全萌化版存储在```./src/zh_CN-kawaii-filled.po```与```./src/zh_CN-kawaii-filled.mo```（预编译版）！
+完全萌化版存储在```./zh_CN-kawaii-filled.po```与```./zh_CN-kawaii-filled.mo```（预编译版）！
 ## How to use it?
 ### Linux (in an Ubuntu example)
 
